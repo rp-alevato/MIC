@@ -1,2 +1,2 @@
 # MIC
-Laboratórios da aula 5 de Microprocessadores da UFSC - EEL7030.
+Laboratórios das aulas de Microprocessadores da UFSC - EEL7030. Os laboratórios estão divididos por branches.
